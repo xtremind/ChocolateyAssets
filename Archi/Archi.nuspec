@@ -8,7 +8,7 @@
         <owners>foxtricks</owners>
         <licenseUrl>http://www.archimatetool.com/faq#licence</licenseUrl>
         <projectUrl>http://archimatetool.com</projectUrl>
-        <iconUrl>https://cdn.rawgit.com/FilipDeVos/ChocolateyAssets/master/archi-logo.png</iconUrl>
+        <iconUrl>https://cdn.rawgit.com/FilipDeVos/ChocolateyAssets/master/Archi/archi-logo.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>The Archi® modelling tool is targeted toward all levels of Enterprise Architects and Modellers. It provides a low cost to entry solution to users who may be making their first steps in the ArchiMate modelling language, or who are looking for a free, cross-platform ArchiMate modelling tool for their company or institution and wish to engage with the language within a TOGAF® or other Enterprise Architecture framework. The application will be installed in "C:\Program Files (x86)\Archi". </description>
         <summary>A free and open source modelling tool to create ArchiMate models and sketches. Used by hundreds of Enterprise Architects throughout the world.</summary>
