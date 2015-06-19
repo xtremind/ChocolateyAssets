@@ -1,5 +1,5 @@
 $name = "archi"
-$url = "http://archimatetool.com/downloads/latest/Archi-win32-Setup-3.1.1.exe"
+$url = "http://archimatetool.com/downloads/latest/Archi-win32-Setup-3.2.1.exe"
 $kind = "EXE"
 $silent = "/VERYSILENT"
 
