@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Archi</id>
-        <version>3.3.1</version>
+        <version>3.3.2</version>
         <title>Archi, The Free ArchiMate Modelling Tool</title>
         <authors>PhillipBeauvoir</authors>
         <owners>foxtricks</owners>
@@ -12,8 +12,8 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>The Archi® modelling tool is targeted toward all levels of Enterprise Architects and Modellers. It provides a low cost to entry solution to users who may be making their first steps in the ArchiMate modelling language, or who are looking for a free, cross-platform ArchiMate modelling tool for their company or institution and wish to engage with the language within a TOGAF® or other Enterprise Architecture framework. The application will be installed in "C:\Program Files (x86)\Archi". </description>
         <summary>A free and open source modelling tool to create ArchiMate models and sketches. Used by hundreds of Enterprise Architects throughout the world.</summary>
-        <releaseNotes>new and improved html report, new model validator, generate view from elements, export csv options, bug fixes</releaseNotes>
-        <copyright>Copyright (c) 2013-2015 Phillip Beauvoir</copyright>
+        <releaseNotes>Visualiser Filters, Tag support in customisable reports, Bug fixes</releaseNotes>
+        <copyright>Copyright (c) 2013-2016 Phillip Beauvoir</copyright>
         <tags>archimate togaf</tags>
     </metadata>
     <files>
