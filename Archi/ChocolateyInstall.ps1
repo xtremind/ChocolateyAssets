@@ -1,9 +1,9 @@
 $packageArgs = @{
   packageName   = "archi"
   fileType      = 'EXE'
-  url           = "http://archimatetool.com/downloads/latest/Archi-win32-Setup-3.3.2.exe" 
+  url           = "https://archimatetool.com/downloads/release/v4/Archi-Windows-Setup-4.0.0-pr1.exe" 
   silentArgs    = "/VERYSILENT"
-  checksum      = "44C86122F02A7C60D132968E288ADA4908D2B26B91B20E5C19EDB2A5CB800FB8"
+  checksum      = "1AEC699D42F6C1A37368A3D784A314ED9B12EA74B29193F455060898B7627155"
   checksumType  = 'sha256'
 }
 
