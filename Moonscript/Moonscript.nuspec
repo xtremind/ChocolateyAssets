@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Moonscript</id>
+        <version>0.5.0</version>
+        <title>Moonscript</title>
+        <authors>Leafo</authors>
+        <owners>foxtricks</owners>
+        <licenseUrl>https://github.com/leafo/moonscript#license-mit</licenseUrl>
+        <projectUrl>http://moonscript.org</projectUrl>
+        <projectSourceUrl>https://github.com/leafo/moonscript</projectSourceUrl>
+        <bugTrackerUrl>https://github.com/leafo/moonscript/issues</bugTrackerUrl>
+        <docsUrl>http://moonscript.org/reference/</docsUrl>
+        <iconUrl>http://leafo.net/dump/sailormoonscript.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>MoonScript is a dynamic scripting language that compiles into Lua. It gives you the power of one of the fastest scripting languages combined with a rich set of features. The executables moon.exe and moonc.exe are added to your path.</description>
+        <tags>moonscript lua</tags>
+    </metadata>
+</package>
