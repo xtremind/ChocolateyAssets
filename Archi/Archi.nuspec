@@ -2,15 +2,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Archi</id>
-        <version>4.0.0-pr1</version>
+        <version>4.0.2</version>
         <title>Archi, The Free ArchiMate Modelling Tool</title>
         <authors>PhillipBeauvoir</authors>
         <owners>foxtricks</owners>
         <licenseUrl>http://www.archimatetool.com/faq#licence</licenseUrl>
         <projectUrl>http://archimatetool.com</projectUrl>
-        <projectSourceUrl>https://github.com/FilipDeVos/ChocolateyAssets/tree/master/Archi</projectSourceUrl>
+        <projectSourceUrl>https://github.com/archimatetool/archi</projectSourceUrl>
+        <packageSourceUrl>https://github.com/FilipDeVos/ChocolateyAssets/tree/master/Archi</packageSourceUrl>
         <bugTrackerUrl>https://github.com/archimatetool/archi/issues</bugTrackerUrl>
-        <docsUrl>http://archimatetool.com/downloads/latest/Archi%20User%20Guide.pdf</docsUrl>
+        <docsUrl>https://archimatetool.com/downloads/release/v4/Archi%20User%20Guide.pdf</docsUrl>
         <iconUrl>https://cdn.rawgit.com/FilipDeVos/ChocolateyAssets/master/Archi/archi-logo.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>The Archi® modelling tool is targeted toward all levels of Enterprise Architects and Modellers. It provides a low cost to entry solution to users who may be making their first steps in the ArchiMate modelling language, or who are looking for a free, cross-platform ArchiMate modelling tool for their company or institution and wish to engage with the language within a TOGAF® or other Enterprise Architecture framework. The application will be installed in "C:\Program Files (x86)\Archi". </description>
