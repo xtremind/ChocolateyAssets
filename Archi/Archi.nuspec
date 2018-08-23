@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Archi</id>
-    <version>4.2.0</version>
+    <version>4.2.0.1</version>
     <title>Archi, The Free ArchiMate Modelling Tool</title>
     <authors>PhillipBeauvoir</authors>
     <owners>foxtricks</owners>
@@ -20,4 +20,7 @@
     <docsUrl>https://archimatetool.com/downloads/release/v4/Archi%20User%20Guide.pdf</docsUrl>
     <bugTrackerUrl>https://github.com/archimatetool/archi/issues</bugTrackerUrl>
   </metadata>
+  <files>
+    <file src="tools\*.ps1" target="tools" />
+  </files>
 </package>
